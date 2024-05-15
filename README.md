@@ -1,4 +1,4 @@
-# Lemniscate EDScorbot DataSset
+# Lemniscate EDScorbot DataSet
 
 In geometry, the lemniscate of Bernoulli is a plane curve defined from two given points F1 and F2, known as foci, at a distance 2c from each other as the locus of points P so that PF1·PF2 = c2. See the following figure.
 
